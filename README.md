@@ -1,4 +1,4 @@
-PCSX2 Online
+PCSX2 Online UPDATE
 ============
 
 PCSX2 Online is a fork of open-source PlayStation 2 emulator PCSX2 with peer-to-peer netplay mode. Now you can play PS2 games with your friends on the internet as if you were in the same room!
